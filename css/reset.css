@@ -98,3 +98,5 @@
     input, select {
         vertical-align:middle;
     }
+
+    .skip{position: absolute; left:-9999px; font-size:0; visibility: hidden;}
